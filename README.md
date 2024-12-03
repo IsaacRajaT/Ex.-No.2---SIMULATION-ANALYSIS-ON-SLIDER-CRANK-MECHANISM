@@ -45,9 +45,14 @@
 
 ## Output
 
+![slider cranck 2](https://github.com/user-attachments/assets/545cc3ea-3d0a-47f4-96be-131c2f12b043)
 
-### Name:
-### Register Number: 
+![slider cranck 3](https://github.com/user-attachments/assets/074d08d7-a46f-414c-b2d6-3a1b69c2a38e)
+
+![slider cranck 1](https://github.com/user-attachments/assets/649c5219-2a4b-4a45-9f44-cf851bbc5187)
+
+### Name:T Isaac Raja
+### Register Number:24900178 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
